@@ -1,0 +1,9 @@
+body{background-color: #70b839;}
+hr{background-color: #70b839;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  border-bottom-style: dotted;
+  border-bottom-width: 2em;
+  border-color: #FAF7F0;
+  width: 200px;}
